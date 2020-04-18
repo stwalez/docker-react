@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Run React on Docker!
+          Running React on Docker!
         </a>
       </header>
     </div>
